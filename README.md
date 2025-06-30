@@ -78,5 +78,3 @@ DualCamera/
 
 
 ---
-
-**Perfect for demonstrating senior iOS development skills to recruiters and technical interviews.**
